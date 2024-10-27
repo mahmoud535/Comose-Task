@@ -1,0 +1,11 @@
+
+Vkotlin:S1172æ"6Remove this unused function parameter "navController".(¬àÝâ8•°·½ª2
+dkotlin:S1172Z"@Use "_" instead of this unused lambda parameter "paddingValues".(˜ãú«þÿÿÿÿ8•°·½ª2
+^kotlin:S1172|"?Use "_" instead of this unused lambda parameter "userResponse".(°ù€ê8•°·½ª2
+rkotlin:S117õ"NRename this parameter to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(ÕÆÔ–üÿÿÿÿ8µ°·½ª2
+kkotlin:S107á"GThis function has 8 parameters, which is greater than the 7 authorized.(ß‹ñÌûÿÿÿÿ8Å°·½ª2
+Ukotlin:S1481V"1Remove this unused "showProgress" local variable.(ïÿÏªùÿÿÿÿ8ä°·½ª2
+Hkotlin:S1874º"#Deprecated code should not be used.(µ£ñÏûÿÿÿÿ8ó°·½ª2
+Hkotlin:S1874è"#Deprecated code should not be used.(µ£ñÏûÿÿÿÿ8ó°·½ª2
+Hkotlin:S1874–"#Deprecated code should not be used.(µ£ñÏûÿÿÿÿ8ó°·½ª2
+Hkotlin:S1874Ë"#Deprecated code should not be used.(µ£ñÏûÿÿÿÿ8ó°·½ª2
